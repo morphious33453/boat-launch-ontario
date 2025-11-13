@@ -1,0 +1,4 @@
+name,lat,lng,province,type,fee,parking,toilets,fourWD,address,description,source
+Bronte Harbour Boat Launch,43.3907,-79.7003,Ontario,trailer,$25,true,true,false,"2280 Ontario St, Oakville, ON L6L 2X8",Popular boat launch in Bronte Harbour with easy access to Lake Ontario,ontario-gov
+Port Credit Harbour Marina,43.5504,-79.5869,Ontario,trailer,$20,true,true,false,"Lakeshore Rd E & Hurontario St, Mississauga, ON",Well-maintained launch ramp with full amenities,ontario-gov
+Beavermead Park Boat Launch,44.2833,-78.2836,Ontario,trailer,Free,true,true,false,"1519 Ashburnham Dr, Peterborough, ON K9J 6X7",Free public boat launch on Little Lake,ontario-gov

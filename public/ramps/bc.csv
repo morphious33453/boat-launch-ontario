@@ -1,0 +1,4 @@
+name,lat,lng,province,type,fee,parking,toilets,fourWD,address,description,source
+Deep Cove Boat Launch,49.3257,-122.9483,BC,hand,Free,true,true,false,"Deep Cove, North Vancouver, BC",Scenic launch into Indian Arm,bc-gov
+Horseshoe Bay Launch,49.3745,-123.2713,BC,trailer,$15,true,true,false,"Horseshoe Bay, West Vancouver, BC",Access to Howe Sound with mountain views,bc-gov
+Okanagan Lake - Kelowna,49.8880,-119.4960,BC,trailer,$20,true,true,false,"Water St, Kelowna, BC",Prime Okanagan Lake access,bc-gov

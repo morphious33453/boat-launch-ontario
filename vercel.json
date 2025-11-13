@@ -1,0 +1,14 @@
+{
+  "buildCommand": "prisma generate && next build",
+  "devCommand": "next dev",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "regions": ["iad1"],
+  "env": {
+    "DATABASE_URL": "@database-url",
+    "NEXT_PUBLIC_SHOPIFY_STORE": "@shopify-store",
+    "NEXT_PUBLIC_REG_NUMBER_ID": "@reg-number-id",
+    "NEXT_PUBLIC_BOAT_NAME_ID": "@boat-name-id",
+    "NEXT_PUBLIC_STICKER_PACK_ID": "@sticker-pack-id"
+  }
+}
